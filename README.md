@@ -35,4 +35,3 @@ Installing software:
 3. $ vagrant up
 4. $ vagrant ssh (optional - only if you need to access the web server).
 
-
